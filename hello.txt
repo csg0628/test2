@@ -1,2 +1,6 @@
 hello git
+
 在master分支上修改：aaaaaaaaaaaaaa
+
+在cui分支上做修改：bbbbbbbbbbbbbbbbbbbbbbbbb
+
